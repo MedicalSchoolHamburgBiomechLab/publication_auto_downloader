@@ -1,0 +1,5 @@
+crossrefapi
+numpy==1.26.4
+pandas==2.2.2
+requests==2.32.2
+selenium==4.21.0
